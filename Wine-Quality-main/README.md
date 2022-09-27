@@ -1,6 +1,6 @@
 # Wine Quality Prediction
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## NON-TECHNICAL EXPLANATION OF MY PROJECT
 
 To predict human wine taste preferences using wine quality dataset. A large dataset when compared to other studies in this domain is considered, with white and red vinho verde samples from Portugal. Using preprocessing methods to process the data, after that we have tried various classification approaches using machine learning and deep learning techniques. The deep learning sequential model achieved promising results with 77.92% validation accuracy , outperforming the other classifiers. The result of this work is important for the wine industry. Furthermore, similar techniques can help in target marketing by modeling consumer tastes from niche markets.
 
